@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/developer/static/css/main.08da48d5.css",
+    "main.js": "/developer/static/js/main.0e126539.js",
+    "static/js/787.1ed0c42c.chunk.js": "/developer/static/js/787.1ed0c42c.chunk.js",
+    "static/media/php.jpg": "/developer/static/media/php.143df03d6c70ed97e4c6.jpg",
+    "static/media/w3school.jpg": "/developer/static/media/w3school.ffcf5b50a484f6fffb47.jpg",
+    "static/media/student.jpg": "/developer/static/media/student.73af09e4e6659b15f1d2.jpg",
+    "static/media/react.jpg": "/developer/static/media/react.e7b5300f0f966b1f235d.jpg",
+    "static/media/attendance.jpg": "/developer/static/media/attendance.bc40fb0277c50818b57f.jpg",
+    "static/media/ticket.jpg": "/developer/static/media/ticket.d589753142dff1b11ede.jpg",
+    "static/media/logo.svg": "/developer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/developer/index.html",
+    "main.08da48d5.css.map": "/developer/static/css/main.08da48d5.css.map",
+    "main.0e126539.js.map": "/developer/static/js/main.0e126539.js.map",
+    "787.1ed0c42c.chunk.js.map": "/developer/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08da48d5.css",
+    "static/js/main.0e126539.js"
+  ]
+}
