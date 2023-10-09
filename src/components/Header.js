@@ -5,9 +5,9 @@ const Header = () => {
 const [toggle, setToggle] = useState(false);
 const handleToggle = () => setToggle(!toggle);
 return (
-    <header className="flex mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between px-5 py-2 bg-primary text-white fixed w-full z-10 ">
+    <header className="flex justify-between px-5 py-2 bg-primary text-white fixed w-full z-10">
         {/*<div class="-z-10 fixed animate-[spin_4s_linear_infinite] -left-1/2 w-full aspect-square border-b rounded-full top-0 border-green-700/30 shadow-md shadow-purple-500/20"></div>*/}
-        <a href="/" className="logo text-2xl font-bold text-accent flex mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between">JB.</a>
+        <a href="/" className="logo text-2xl font-bold text-accent">JB.</a>
 
         {/* Desktop Nav */}
         <nav className="hidden md:block">
