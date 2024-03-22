@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImg from "../logo.svg";
+import HeroImg from "../assets/Avatar.png";
 
 const Home = () => {
 return (
