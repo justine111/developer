@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "https://justine111.github.io/developer",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.3.3",

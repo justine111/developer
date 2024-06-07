@@ -6,7 +6,9 @@ import Project from "./components/Project";
 import TechStack from "./components/TechStack";
 import Contact from "./components/Contact";
 
+
 function App() {
+
     return (
     <>
         <Header />
@@ -15,8 +17,9 @@ function App() {
         <Project />
         <TechStack />
         <Contact />
+
     </>
     );
-}
+};
 
 export default App;
